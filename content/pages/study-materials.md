@@ -1,5 +1,6 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Study Materials
 uid: 97b079e5-e064-4746-16ab-cc31d0731124
 ---

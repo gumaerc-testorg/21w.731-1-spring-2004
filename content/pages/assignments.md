@@ -1,5 +1,6 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Assignments
 uid: 9fc47e04-7b9c-4e13-e93f-f654fcc48582
 ---
