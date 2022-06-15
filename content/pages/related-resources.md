@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains links on supplementary resources on authors, readings
+  and dramatic versions of assigned short stories, documentary film (clips),additional
+  short story resources, student publications, MIT writing resources, writing prize
+  competitions, MIT grants for writing, service, and research.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

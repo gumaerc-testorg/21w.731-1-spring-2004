@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -36,7 +37,7 @@ Service Learning Option
 
 This course offers a service-learning option so that you can address some of the social and psychological issues within the community (such as poverty, health care issues, educational inequality or other issues of interest) that we read about and discuss in class. Students often find that they do their best writing when they focus on the experience of active engagement with real-world problems. The service-learning option reflects MIT's mission that the Institute "seeks to develop in each member of that community not only the ability to work wisely, creatively and effectively for the betterment of humankind, but also the passion for doing so." While service-learning is not mandatory to fulfill course requirements, it is encouraged.
 
-Handout on the service-learning option. ([PDF]({{< baseurl >}}/resources/s_l_in_731))
+Handout on the service-learning option. ({{% resource_link 7e6fef95-7173-0bbc-b137-5b9a75653c01 "PDF" %}})
 
 Writing Assignments
 -------------------
@@ -92,7 +93,7 @@ Manuscript Form
 
 Essays and stories should be typed, double-spaced, on one side of white paper, with margins of about an inch all around. In the upper right-hand corner of page 1, type your name, course title, the date, number and type of assignment (e.g. First Version, Essay #1), single-spaced. Your title should be in **upper case**, centered and placed about two double spaces beneath this block of information. Paragraph 1 should begin about two double spaces below the title; please number pages! Each essay should be submitted with two copies and a cover letter describing what you see as the strengths and weaknesses of your piece.
 
-Sample Essay Form ([PDF]({{< baseurl >}}/resources/sample_essay))
+Sample Essay Form ({{% resource_link 36af5d50-e3b1-c272-cdaa-eef4de947903 "PDF" %}})
 
 Faculty Conferences
 -------------------
