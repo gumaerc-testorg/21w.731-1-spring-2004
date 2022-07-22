@@ -5,6 +5,7 @@ file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: portfolio731.pdf
 uid: ab509d42-f17e-e106-8876-f14b0cd1b1c9
 ---
 This file contains instructions for the final portfolio assignment.
-

@@ -6,6 +6,7 @@ file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: exerc_1_1.pdf
 uid: 65cf012b-4fe2-901c-07fd-a4c348888abc
 ---
 This file contains deadlines, workshop information and instructions for assignment.
-

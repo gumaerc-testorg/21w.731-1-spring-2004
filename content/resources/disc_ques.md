@@ -4,6 +4,7 @@ description: ''
 file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/015d226fc3f5e72eca7999355dbeac9e_disc_ques.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

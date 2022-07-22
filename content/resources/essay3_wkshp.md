@@ -5,6 +5,7 @@ file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: essay3_wkshp.pdf
 uid: 445ba8bb-0d00-c9b2-df17-aabdba5b0deb
 ---
 This file contains instructions for essay workshop groups.
-

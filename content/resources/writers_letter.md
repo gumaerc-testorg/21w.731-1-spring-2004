@@ -5,6 +5,7 @@ file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: writers_letter.pdf
 uid: 2e0b62d4-455f-c073-99f0-7f7e6548b48e
 ---
 This file contains deadlines and instructions for 'Writer's Letter' assignment.
-

@@ -6,6 +6,7 @@ file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: read_write_nb.pdf
 uid: 6d048168-ebe6-7e44-0618-0381a8e4f6f8
 ---
 This file contains guidelines, instructions and suggestions for journal assignment.
-

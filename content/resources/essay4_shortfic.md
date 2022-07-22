@@ -5,6 +5,7 @@ file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: essay4_shortfic.pdf
 uid: 55d8edf2-9330-9e7b-c795-5d766ff09ae5
 ---
 This file contains instructions for short fiction workshop groups.
-
