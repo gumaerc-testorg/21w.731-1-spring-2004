@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section contains student course information sheet and discussion
+  questions for Barbara Ehrenreich's "Nickel and Dimed".
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 97b079e5-e064-4746-16ab-cc31d0731124
 ---
 
-Session 1 Handout: Student Course Information Sheet ([PDF]({{< baseurl >}}/resources/info1))
+Session 1 Handout: Student Course Information Sheet ({{% resource_link b2e48ac7-8c24-290e-84dd-4addaaf25b5a "PDF" %}})
 --------------------------------------------------------------------------------------------
 
 Students fill out the course information sheet with the following questions on the first day of class.
@@ -21,7 +25,7 @@ Students fill out the course information sheet with the following questions on t
 10.  Is there anything else that you'd like me to know about you as a learner/thinker/writer as you begin the course?
 11.  What are the best and worst pieces of advice that you've received about writing?
 
-Session 10: Discussion Questions for Barbara Ehrenreich's "Nickel and Dimed" ([PDF]({{< baseurl >}}/resources/disc_ques))
+Session 10: Discussion Questions for Barbara Ehrenreich's "Nickel and Dimed" ({{% resource_link 015d226f-c3f5-e72e-ca79-99355dbeac9e "PDF" %}})
 -------------------------------------------------------------------------------------------------------------------------
 
 _Nickel and Dimed: On (Not) Getting by in America_. 1st ed. New York, NY: Metropolitan Books, 2001. ISBN: 9780805063882.
@@ -33,5 +37,5 @@ _Nickel and Dimed: On (Not) Getting by in America_. 1st ed. New York, NY: Metrop
 5.  How might this piece have been different if Ehrenreich had used more traditional journalistic methods (interviewing, observation)? Is this method of first-person experience superior for certain kinds of topics?
 6.  Ehrenreich draws upon her low-wage work experience to make an argument about welfare reform in America. What is her argument? Is it persuasive to you as a reader?
 
-Service Learning Option ([PDF]({{< baseurl >}}/resources/s_l_in_731-1))
+Service Learning Option ({{% resource_link 6168269d-bd9e-f24b-62b0-631755ef93b8 "PDF" %}})
 -----------------------------------------------------------------------
