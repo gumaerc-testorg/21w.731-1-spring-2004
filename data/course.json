@@ -39,7 +39,9 @@
   },
   "course_title": "Writing and Experience: Exploring Self in Society",
   "course_description": "The reading and writing for this course will focus on what it means to construct a sense of self and a life narrative in relation to the larger social world of family and friends, education, media, work, and community. Readings will include nonfiction and fiction works by authors such as Maya Angelou, James Baldwin, Andre Dubus, Anne Frank, Tim O'Brien, Flannery O'Connor, George Orwell, John Steinbeck, Amy Tan, Tobias Wolff, and Alice Walker. Students will explore the craft of storytelling and the multiple ways in which one can employ the tools of fiction in crafting creative nonfiction and fiction narratives.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.731-1",
   "course_image_thumbnail": {
@@ -50,6 +52,7 @@
     "Written Assignments",
     "Presentation Assignments"
   ],
-  "site_uid": "5d7d8b39-5fa2-4d0f-9102-7b7d8a04aeea",
+  "site_uid": "0b2d005c-31c6-4d40-9eae-5861dc7a39a7",
+  "site_short_id": "21w.731-1-spring-2004",
   "title": "Course Metadata"
 }
