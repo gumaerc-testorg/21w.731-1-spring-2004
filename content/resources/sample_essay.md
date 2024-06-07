@@ -2,6 +2,7 @@
 content_type: resource
 description: The file contains the format for written assignments.
 file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/36af5d50e3b1c272cdaaeef4de947903_sample_essay.pdf
+file_size: 48922
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

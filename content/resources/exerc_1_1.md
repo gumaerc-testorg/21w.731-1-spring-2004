@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains deadlines, workshop information and instructions for
   assignment.
 file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/65cf012b4fe2901c07fda4c348888abc_exerc_1_1.pdf
+file_size: 77098
 file_type: application/pdf
 learning_resource_types:
 - Assignments
