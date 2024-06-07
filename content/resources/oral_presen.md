@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains deadlines and instructions for oral presentations.
 file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/1e2e966a4f09d936048f6e98659ce385_oral_presen.pdf
+file_size: 84747
 file_type: application/pdf
 learning_resource_types:
 - Assignments
