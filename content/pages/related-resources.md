@@ -24,7 +24,7 @@ uid: c1735c54-5da3-6ab7-d6c9-69fb12588f8d
 
 [Anne Frank - United States Holocaust Memorial Museum Exhibit](http://www.ushmm.org/exhibition/anne-frank/htmlsite/)
 
-[Martin Luther King, Jr.- Web Resources](https://thekingcenter.org/about-dr-king/)
+[Martin Luther King, Jr.- Web Resources](https://thekingcenter.org/about-tkc/martin-luther-king-jr/)
 
 [Tim O'Brien - Web Site](https://www.chipublib.org/tim-obrien-biography/)
 
@@ -58,7 +58,7 @@ uid: c1735c54-5da3-6ab7-d6c9-69fb12588f8d
 
 ## Additional Short Story Resources
 
-[Stories on Stage - Chicago Public Radio](https://www.wbez.org/shows/stories-on-stage/eb0dbd6a-60a2-423d-b6b9-4a4e131a36f9)
+Stories on Stage - Chicago Public Radio
 
 ["Scribbling Women": Dramatizations of Stories by American Women](https://web.archive.org/web/20070128225244/http://www.scribblingwomen.org/home.html)
 
@@ -70,7 +70,7 @@ Counterpoint
 
 [MURJ: MIT Undergraduate Research Journal](http://murj.mit.edu/)
 
-[Rune](http://web.mit.edu/rune/www/)
+Rune
 
 [The Tech](http://www-tech.mit.edu/)
 
