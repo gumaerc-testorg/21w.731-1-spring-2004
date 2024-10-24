@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains guidelines, instructions and suggestions for journal
   assignment.
-file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/6d048168ebe67e4406180381a8e4f6f8_read_write_nb.pdf
+file: /ol-ocw-studio-app/courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/6d048168ebe67e4406180381a8e4f6f8_read_write_nb.pdf
 file_size: 76487
 file_type: application/pdf
 learning_resource_types:

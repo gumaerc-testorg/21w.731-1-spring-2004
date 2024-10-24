@@ -111,6 +111,6 @@ Students are strongly encouraged to craft their essays and stories with a goal o
 
 - *Counterpoint* - The main college campus magazine at MIT and Wellesley, published eight times a year. Since 1991, this magazine has served both academic communities - a combined population of 15,000 - addressing topics from a broad spectrum of social, political, and cultural issues.
 - [*The Tech*](http://www-tech.mit.edu/) - MIT's newspaper.
-- [*Rune*](http://web.mit.edu/rune/www/) - A biannual journal of arts and letters containing original work by MIT students, staff, faculty, and affiliates.
+- *Rune* - A biannual journal of arts and letters containing original work by MIT students, staff, faculty, and affiliates.
 
 The publication websites will include information on submission guidelines. Students can also browse through back issues of *Counterpoint* and *Rune* in the instructor's office.
