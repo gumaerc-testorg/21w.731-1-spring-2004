@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/015d226fc3f5e72eca7999355dbeac9e_disc_ques.pdf
+file: /ol-ocw-studio-app/courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/015d226fc3f5e72eca7999355dbeac9e_disc_ques.pdf
 file_size: 70355
 file_type: application/pdf
 learning_resource_types: []
