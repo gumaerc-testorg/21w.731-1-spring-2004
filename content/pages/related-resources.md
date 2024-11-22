@@ -18,8 +18,6 @@ uid: c1735c54-5da3-6ab7-d6c9-69fb12588f8d
 
 [James Baldwin - Web Resources](https://www.poetryfoundation.org/poets/james-baldwin)
 
-[Andre Dubus - Web Resources](https://www.andredubusshortstories.com/)
-
 [Barbara Ehrenreich - Web Resources on *Nickel and Dimed*](https://www.econlib.org/build-barbara-build-reflections-on-nickel-and-dimed/)
 
 [Anne Frank - United States Holocaust Memorial Museum Exhibit](http://www.ushmm.org/exhibition/anne-frank/htmlsite/)
@@ -72,7 +70,7 @@ Counterpoint
 
 Rune
 
-[The Tech](http://www-tech.mit.edu/)
+[The Tech](https://thetech.com/)
 
 ## MIT Writing Resources
 
