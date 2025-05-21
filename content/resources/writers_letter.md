@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains deadlines and instructions for 'Writer's Letter' assignment.
-file: /ol-ocw-studio-app/courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/2e0b62d4455fc07399f07f7e6548b48e_writers_letter.pdf
+file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/2e0b62d4455fc07399f07f7e6548b48e_writers_letter.pdf
 file_size: 79334
 file_type: application/pdf
 learning_resource_types:

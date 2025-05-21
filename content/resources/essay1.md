@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains deadlines, workshop information and assignment instructions.
-file: /ol-ocw-studio-app/courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/34f0c5746c8473516f37982d21cc3494_essay1.pdf
+file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/34f0c5746c8473516f37982d21cc3494_essay1.pdf
 file_size: 81554
 file_type: application/pdf
 learning_resource_types:
