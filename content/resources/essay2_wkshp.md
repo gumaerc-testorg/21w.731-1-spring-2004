@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains instructions for essay workshop groups.
-file: /ol-ocw-studio-app/courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/54e63e38ee43d8c3c8bb31f641a3b24b_essay2_wkshp.pdf
+file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/54e63e38ee43d8c3c8bb31f641a3b24b_essay2_wkshp.pdf
 file_size: 70143
 file_type: application/pdf
 learning_resource_types:

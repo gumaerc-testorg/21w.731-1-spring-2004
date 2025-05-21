@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a sample title page for the assignment files.
-file: /ol-ocw-studio-app/courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/7105969af3769d888f90f9a229e93671_sample_essay.pdf
+file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/7105969af3769d888f90f9a229e93671_sample_essay.pdf
 file_size: 48922
 file_type: application/pdf
 learning_resource_types:
