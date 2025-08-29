@@ -80,7 +80,7 @@ Rune
 
 [MIT Communication Requirement](http://web.mit.edu/commreq/index.html)
 
-[Writing Across the Curriculum at MIT](https://cmsw.mit.edu/education/writing-rhetoric-professional-communication/history-wac-mit/)
+[Writing Across the Curriculum at MIT](https://cmsw.mit.edu/tag/writing-across-the-curriculum/)
 
 ## Writing Prize Competitions
 
