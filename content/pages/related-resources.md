@@ -12,90 +12,90 @@ uid: c1735c54-5da3-6ab7-d6c9-69fb12588f8d
 ---
 ## Supplementary Resources on Authors
 
-[Maya Angelou - Voices from the Gaps](http://voices.cla.umn.edu/artistpages/angelouMaya.php)
+{{% resource_link "05151587-834d-4ff2-afa6-4a5db5c748a8" "Maya Angelou - Voices from the Gaps" %}}
 
-[Margaret Atwood Website](http://www.owtoad.com/)
+{{% resource_link "b0683cb0-3537-44fe-9016-0107833cdf33" "Margaret Atwood Website" %}}
 
-[James Baldwin - Web Resources](https://www.poetryfoundation.org/poets/james-baldwin)
+{{% resource_link "e0a052c2-68fd-4a7b-a354-5cd197db8d7c" "James Baldwin - Web Resources" %}}
 
-[Barbara Ehrenreich - Web Resources on *Nickel and Dimed*](https://www.econlib.org/build-barbara-build-reflections-on-nickel-and-dimed/)
+{{% resource_link "a0daf7c1-ec64-4582-856a-5dc384177a6f" "Barbara Ehrenreich - Web Resources on *Nickel and Dimed*" %}}
 
-[Anne Frank - United States Holocaust Memorial Museum Exhibit](http://www.ushmm.org/exhibition/anne-frank/htmlsite/)
+{{% resource_link "c3590015-cb20-46a2-ba23-565b71f38282" "Anne Frank - United States Holocaust Memorial Museum Exhibit" %}}
 
-[Martin Luther King, Jr.- Web Resources](https://thekingcenter.org/about-tkc/martin-luther-king-jr/)
+{{% resource_link "9bf8386e-f04e-4403-ab0b-b028e9484fb7" "Martin Luther King, Jr.- Web Resources" %}}
 
-[Tim O'Brien - Web Site](https://www.chipublib.org/tim-obrien-biography/)
+{{% resource_link "5f73f592-d056-4845-8fb0-4e6f5bbb04e3" "Tim O'Brien - Web Site" %}}
 
-[Flannery O'Connor- Web Resources](https://www.georgiaencyclopedia.org/articles/arts-culture/flannery-oconnor-1925-1964)
+{{% resource_link "c9a47197-e326-498a-9f01-e9f5a8a36c8a" "Flannery O'Connor- Web Resources" %}}
 
-[Tillie Olsen - Web Resources](http://www.tillieolsen.net/about-tillie.php)
+{{% resource_link "65c44d25-6ffd-4d1b-98d3-35c3a4a9094a" "Tillie Olsen - Web Resources" %}}
 
-[George Orwell - Web Resources](https://www.orwellfoundation.com/the-orwell-foundation/about/about-george-orwell/)
+{{% resource_link "a5d94b54-0ad9-4875-99c7-1fb610b135ed" "George Orwell - Web Resources" %}}
 
-[Amy Tan- Voices from the Gaps](http://voices.cla.umn.edu/artistpages/tanAmy.php)
+{{% resource_link "fe4d2577-45a8-4828-9fd0-7494684429b9" "Amy Tan- Voices from the Gaps" %}}
 
-[Alice Walker- Voices from the Gaps](http://voices.cla.umn.edu/artistpages/walkerAlice.php)
+{{% resource_link "f566d279-3447-4ab0-806a-0ccc4cb41356" "Alice Walker- Voices from the Gaps" %}}
 
-[Tobias Wolff- Web Resources](https://english.stanford.edu/people/tobias-wolff)
+{{% resource_link "6ef51db0-6d42-4170-8808-80406cfb3362" "Tobias Wolff- Web Resources" %}}
 
 ## Readings and Dramatic Versions of Assigned Short Stories
 
-[Tim O'Brien- Reading of "The Things They Carried" by Rob Riley (Chicago Public Radio)](http://web.archive.org/web/20090409121800/http://www.chicagopublicradio.org/audio_library/sos_03audio.asp)
+{{% resource_link "3e286c3a-9a54-42d6-b3b1-9af847faddc4" "Tim O'Brien- Reading of \"The Things They Carried\" by Rob Riley (Chicago Public Radio)" %}}
 
-[Tillie Olsen reading excerpts from "I Stand Here Ironing" on This American Life](http://www.thisamericanlife.org/Radio_Episode.aspx?sched=819)
+{{% resource_link "ac121446-5942-48e2-b61c-b82633c23b26" "Tillie Olsen reading excerpts from \"I Stand Here Ironing\" on This American Life" %}}
 
-[Tobias Wolff reading "Bullet in the Brain" on *This American Life*](http://www.thisamericanlife.org/Radio_Episode.aspx?sched=1145)
+{{% resource_link "1af0b401-8be7-42bc-b939-e75d0f85e9a2" "Tobias Wolff reading \"Bullet in the Brain\" on *This American Life*" %}}
 
-[Tobias Wolff - film version of "Bullet in the Brain"](http://www.imdb.com/title/tt0325129/)
+{{% resource_link "a71c6199-1eff-4ec9-9c66-b93d75bf0b0d" "Tobias Wolff - film version of \"Bullet in the Brain\"" %}}
 
 ## Documentary Film
 
-[No Logo](http://imdb.com/title/tt0373193/) (More information on this film is available on the [Media Education Foundation](http://www.mediaed.org/videos/CommercialismPoliticsAndMedia/NoLogo) Web site.)
+{{% resource_link "be24580d-6cf4-41ea-9311-a3af983acc80" "No Logo" %}} (More information on this film is available on the {{% resource_link "a027eb5e-e623-4033-b285-355a424e87f8" "Media Education Foundation" %}} Web site.)
 
-[Eyes on the Prize](http://imdb.com/title/tt0092999/) (More information on this film series is available on the [Museum of Broadcast Communications](https://museum.tv/) Web site.)
+{{% resource_link "095be99e-bc5d-4fea-9c9e-07e7c9ec5575" "Eyes on the Prize" %}} (More information on this film series is available on the {{% resource_link "6461eff0-85b4-47e2-9335-d65e337a22f1" "Museum of Broadcast Communications" %}} Web site.)
 
 ## Additional Short Story Resources
 
 Stories on Stage - Chicago Public Radio
 
-["Scribbling Women": Dramatizations of Stories by American Women](https://web.archive.org/web/20070128225244/http://www.scribblingwomen.org/home.html)
+{{% resource_link "c3ac1a2b-5fe2-40d4-9d52-3379c705dd90" "\"Scribbling Women\": Dramatizations of Stories by American Women" %}}
 
-[Perspectives on American Literature - Reference Guide](http://www.csustan.edu/english/reuben/pal/TABLE.HTML)
+{{% resource_link "f1fc7054-1711-4139-ba4b-03f3f58d5b9f" "Perspectives on American Literature - Reference Guide" %}}
 
 ## Student Publications
 
 Counterpoint
 
-[MURJ: MIT Undergraduate Research Journal](http://murj.mit.edu/)
+{{% resource_link "fb72ceac-d086-4d15-91c4-4987caf7367d" "MURJ: MIT Undergraduate Research Journal" %}}
 
 Rune
 
-[The Tech](https://thetech.com/)
+{{% resource_link "1b50578f-debb-43aa-8065-b00a26aa50f6" "The Tech" %}}
 
 ## MIT Writing Resources
 
-[MIT Program In Writing and Humanistic Studies](https://dspace.mit.edu/handle/1721.1/39101)
+{{% resource_link "385f8384-9548-47c5-a556-31a3116fe7cc" "MIT Program In Writing and Humanistic Studies" %}}
 
-[MIT Writing Center](https://cmsw.mit.edu/writing-and-communication-center/)
+{{% resource_link "7186f8ec-e0be-4c74-aaec-b4d65614f71d" "MIT Writing Center" %}}
 
-[MIT Communication Requirement](http://web.mit.edu/commreq/index.html)
+{{% resource_link "fab28130-9925-4ffc-9e32-cc7d8773936b" "MIT Communication Requirement" %}}
 
-[Writing Across the Curriculum at MIT](https://cmsw.mit.edu/tag/writing-across-the-curriculum/)
+{{% resource_link "f20210d8-364a-4c14-b865-f5a9bb2fc1cd" "Writing Across the Curriculum at MIT" %}}
 
 ## Writing Prize Competitions
 
-[Ilona Karmel Writing Prizes](http://cmsw.mit.edu/publications/ilona-karmel-writing-prizes/)
+{{% resource_link "230f7de6-f224-4bfd-a281-fb0edc01f976" "Ilona Karmel Writing Prizes" %}}
 
-[Louis Kampf Writing Prize in Women's Studies](http://web.mit.edu/wgs/prize/)
+{{% resource_link "6d491bec-772e-4bc2-934d-85695fd97fb8" "Louis Kampf Writing Prize in Women's Studies" %}}
 
-[L. Austin Kelly Essay Prizes](http://web.mit.edu/kdfund/essay/index.html)
+{{% resource_link "182641f0-dc79-461f-ab29-83b45b09d32b" "L. Austin Kelly Essay Prizes" %}}
 
-[Benjamin Siegel Prize in Science, Technology and Society](http://sts-program.mit.edu/benjamin-siegel-writing-prize/)
+{{% resource_link "85e5c454-40b6-4029-a303-0ce8be04c94b" "Benjamin Siegel Prize in Science, Technology and Society" %}}
 
-[History Writing Prize Competition](http://web.mit.edu/history/www/)
+{{% resource_link "f248887a-5c09-474e-b620-ee732ac8ed98" "History Writing Prize Competition" %}}
 
 ## MIT Grants for Writing, Service, and Research
 
-[Eloranta Summer Fellowships](http://web.mit.edu/eloranta/)
+{{% resource_link "ccb8cfdd-5e45-424c-9de7-b13371dec937" "Eloranta Summer Fellowships" %}}
 
-[Public Service Fellowships and Grants](https://pkgcenter.mit.edu/programs/fellowships/)
+{{% resource_link "b12a6760-155e-47c1-991a-dd1632dd3bc2" "Public Service Fellowships and Grants" %}}
